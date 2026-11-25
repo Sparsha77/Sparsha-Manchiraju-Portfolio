@@ -1,4 +1,4 @@
-My Portfolio 
+My Portfolio: 
 I used to run a news brand. Now I sit in engineering meetings and translate.
 
 Somewhere between a 40-page spec sheet and a buyer who gives you four seconds, there's a story. Finding it is my job.
